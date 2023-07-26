@@ -1,0 +1,19 @@
+# created by virtualenv automatically
+.env
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.pyc
+*.pyo
+*.egg-info/
+
+# Virtual Environment
+venv/
+env/
